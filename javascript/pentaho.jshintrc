@@ -1,0 +1,19 @@
+{
+    "curly": true,
+    "eqeqeq": true,
+    "forin": true,
+    "immed": true,
+    "latedef": false,
+    "noarg": true,
+    "nonbsp": true,
+    "nonew": true,
+    "singleGroups": true,
+    "strict": true,
+    "undef": true,
+    "unused": true,
+    "globals": {
+        "define": false,
+        "CONTEXT_PATH": false,
+        "console": false
+    }
+}

@@ -23,3 +23,5 @@ The Eclipse CheckStyle plugin documentation my be helpful: http://eclipse-cs.sou
 
 ## Additional Information
 [CheckStyle Tips](https://github.com/pentaho/pentaho-coding-standards/wiki/CheckStyle-Tips) - Learn how to suppress CheckStyle modules for select areas.
+
+## [Javascript Pentaho Coding Standards](javascript/)

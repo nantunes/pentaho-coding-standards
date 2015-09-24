@@ -1,0 +1,3 @@
+[submodule "javascript/jscs-preset-pentaho"]
+	path = javascript/jscs-preset-pentaho
+	url = git://github.com/nantunes/jscs-preset-pentaho.git
