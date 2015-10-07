@@ -7,12 +7,14 @@
     "noarg": true,
     "nonbsp": true,
     "nonew": true,
-    "singleGroups": true,
+    "singleGroups": false,
     "strict": true,
     "undef": true,
+    "eqnull":true,
     "unused": true,
     "globals": {
         "define": false,
+        "require": false,
         "CONTEXT_PATH": false,
         "console": false
     }
