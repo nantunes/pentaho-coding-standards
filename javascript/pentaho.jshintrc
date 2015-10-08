@@ -1,5 +1,6 @@
 {
     "curly": true,
+    "sub": true,
     "eqeqeq": true,
     "forin": true,
     "immed": true,
